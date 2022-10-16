@@ -1,4 +1,4 @@
-# assignment2-Courser-R
+# assignment2-Coursera-R
 Assignment 2, Lexical Scoping
   ## I set the input x as a matrix
   ## and set the solved value "s" as null
